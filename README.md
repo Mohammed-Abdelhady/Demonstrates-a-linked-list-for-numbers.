@@ -1,5 +1,8 @@
-practice at linked list 
-Demonstrates a linked list for number 
+practice at linked list Data structures 
+
+Demonstrates a linked list for number .
+
+
 function  
 1 - delete
 2 - insert
